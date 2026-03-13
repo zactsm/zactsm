@@ -10,8 +10,6 @@
 📱 Interested in **Kotlin, Android development, and developer tooling**<br>
 🌱 Passionate about learning new technologies and improving my development skills.
 
----
-
 ## 🚀 About Me
 
 * 💼 Currently working as a **Web Developer Intern**
@@ -19,8 +17,6 @@
 * 📱 Exploring the **Kotlin & Android ecosystem**
 * 🧠 Interested in **developer tools and software architecture**
 * 🌱 Always learning and experimenting with new technologies
-
----
 
 ## 🛠 Tech Stack
 
@@ -35,8 +31,6 @@
 ### Tools
 
 * Git | Gradle | VS Code | Android Studio
-
----
 
 ## 🐍 Contribution Activity
 
