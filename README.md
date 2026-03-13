@@ -1,10 +1,10 @@
 <!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Zac;Web+Developer+Intern;Kotlin+%7C+Android+%7C+Web+Development;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+zactsm;Web+Developer+Intern;Dart+%7C+Android+%7C+Web+Development;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-# 👋 Hi, I'm Zac
+# 👋 Hi, I'm zactsm
 
 💻 **Web Developer Intern**
 📱 Interested in **Kotlin, Android development, and developer tooling**
@@ -47,9 +47,8 @@
 
 ---
 
-## 📊 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zactsm/zactsm/main/profile-3d-contrib/profile-green-animate.svg">
+  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
