@@ -18,7 +18,7 @@
 * 🧠 Interested in **developer tools and software architecture**
 * 🌱 Always learning and experimenting with new technologies
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
