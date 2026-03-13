@@ -52,13 +52,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-contribution-grid-snake.svg">
 </p>
-
----
-
-## 🌍 Connect With Me
-
-* GitHub: https://github.com/zactsm
-
----
-
-⭐ Thanks for visiting my profile!
