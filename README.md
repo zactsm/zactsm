@@ -50,5 +50,5 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg" alt="snake animation"/>
 </p>
