@@ -34,9 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg">
 </picture>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zactsm&show_icons=true&theme=transparent&hide_border=true" alt="zactsm stats" />
-</div>
