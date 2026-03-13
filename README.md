@@ -3,11 +3,6 @@
 <!-- Avatar / name -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=42A5F5&center=true&vCenter=true&width=480&lines=zactsm;Web+Dev+Intern+%7C+Kotlin+Explorer;Building+clean+%26+fast" alt="Typing SVG" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/zactsm?label=Follow&style=flat-square&color=42A5F5&labelColor=0d1117)](https://github.com/zactsm)
-![Profile views](https://komarev.com/ghpvc/?username=zactsm&style=flat-square&color=42A5F5)
-
 </div>
 
 ---
