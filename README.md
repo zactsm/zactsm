@@ -41,5 +41,6 @@
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/ocean.gif" alt="github contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake-dark.svg">
 </p>
