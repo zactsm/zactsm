@@ -1,54 +1,42 @@
-<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+zactsm;Web+Developer+Intern;Building+with+Kotlin+%26+Web" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+zactsm;Web+Developer+Intern;Dart+%7C+Android+%7C+Web+Development;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
-
-# 👋 Hi, I'm zactsm
-
-💻 **Web Developer Intern**
-📱 Interested in **Kotlin, Android development, and developer tooling**
-🌱 Passionate about learning new technologies and improving my development skills
+  <p>
+    <a href="https://github.com/zactsm"><img src="https://img.shields.io/github/followers/zactsm?label=Follow&style=social" alt="Follow"></a>
+  </p>
+</div>
 
 ---
 
-## 🚀 About Me
+### ⚡ Quick Bytes
 
-* 💼 Currently working as a **Web Developer Intern**
-* 🌐 Building and learning more about **modern web technologies**
-* 📱 Exploring the **Kotlin and Android ecosystem**
-* 🧠 Interested in **developer tools and software architecture**
-* 🌱 Always learning and experimenting with new technologies
+* 🛠️ **Current Focus:** Crafting web experiences as a **Web Dev Intern**.
+* 📱 **Deep Diving:** Exploring the **Kotlin & Android** ecosystem (Coroutine & Compose).
+* 🏗️ **Interests:** Developer tooling, clean architecture, and CI/CD pipelines.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 My Toolbox
 
-**Languages**
-
-* Kotlin
-* Java
-* JavaScript
-* HTML / CSS
-
-**Development**
-
-* Android
-* Web Development
-* REST APIs
-
-**Tools**
-
-* Git
-* Gradle
-* VS Code
-* Android Studio
-* CI/CD
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **Mobile** | ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square) |
+| **Misc** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-## 🐍 Contribution Activity
+### 🐍 The Contribution Grind
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg" alt="snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zactsm/zactsm/output/github-snake.svg">
+</picture>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zactsm&show_icons=true&theme=transparent&hide_border=true" alt="zactsm stats" />
+</div>
