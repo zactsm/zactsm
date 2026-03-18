@@ -26,7 +26,7 @@
 * **Key Feature:** A comprehensive Malaysian financial literacy portal featuring multi-category learning modules, an AI-powered assistant, and a dynamic quiz engine for knowledge validation—all localized in Bahasa Melayu.
 
 ### 🎟️ Survey & Reward Management System (Live)
-**Role:** Full-Stack Developer | Solo
+**Role:** Full-Stack Developer | Independent
 * **The Goal:** A live system to track survey participants and automate **Touch 'n Go eWallet** reward distribution.
 * **Key Feature:** An automated reward distribution system that parses large-scale Excel datasets to validate student eligibility and executes batch-processed, personalized email campaigns with integrated status tracking and HTML archiving.
 
