@@ -1,18 +1,18 @@
 <!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+zactsm+here;Web+Developer+Intern;Dart+%7C+Android+%7C+Web+Development;Always+Learning+New+Things&center=true&width=520&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+zactsm+here;Software+Engineering+Intern;Dart+%7C+Android+%7C+Web+Development;Always+Learning+New+Things&center=true&width=520&height=50">
 </p>
 
 ## Hi, I'm zactsm
 
-💻 **Web Developer Intern**<br>
+💻 **Software Engineering Intern**<br>
 📱 Interested in **Android development, and developer tooling**<br>
 🌱 Passionate about learning new technologies and improving my development skills.
 
 ## About Me
 
-* 💼 Currently working as a **Web Developer Intern**
+* 💼 Currently working as a **Software Engineering Intern**
 * 🌐 Building and learning **modern web technologies**
 * 📱 Exploring the **Kotlin & Android ecosystem**
 * 🧠 Interested in **developer tools and software architecture**
@@ -22,15 +22,15 @@
 
 ### Languages
 
-* Java | JS | HTML / CSS | Dart
+* C | Java | Dart | PHP | JS | SQL | HTML | CSS
 
 ### Development
 
-* Android Development | Web Development | REST APIs
+* Laravel | RESTful APIs | MVC Architecture | Web and Android Development
 
 ### Tools
 
-* Git | Gradle | VS Code | Android Studio
+* Android Studio | Git | Gradle | XAMPP
 
 ## 🐍 Contribution Activity
 
