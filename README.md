@@ -11,6 +11,7 @@
 * 📱 Exploring the **Kotlin & Android ecosystem (SwiftUI 🔜)**
 * 🧠 Interested in **developer tools and software architecture**
 * 🌱 Always learning and experimenting with new technologies
+* 💬 Actively seeking entry-level position for October 2026 intake
 
 ## Featured Projects
 
