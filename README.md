@@ -33,7 +33,7 @@
 
 ### Design & Multimedia
 
-* Graphics: Adobe Photoshop, Illustrator, Animate
+* Graphics: Adobe Photoshop, Illustrator
 * Video Production: DaVinci Resolve
 
 ### Management & Governance
