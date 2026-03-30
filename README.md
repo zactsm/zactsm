@@ -5,11 +5,6 @@
 </p>
 
 ## Hi, I'm zactsm
-
-💻 **Software Engineering Intern**<br>
-📱 Interested in **Android development, and developer tooling**<br>
-🌱 Passionate about learning new technologies and improving my development skills.
-
 ## About Me
 
 * 💼 Currently working as a **Software Engineering Intern**
