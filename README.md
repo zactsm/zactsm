@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+zactsm+here;Software+Engineering+Intern;Dart+%7C+Android+%7C+Web+Development;Always+Learning+New+Things&center=true&width=520&height=50">
 </p>
 
-## Hi, I'm zactsm
 ## About Me
 
 * 💼 Currently working as a **Software Engineering Intern**
