@@ -17,7 +17,7 @@
 ### 💰 Finance Education Portal (In-Progress)
 **Role:** Full-Stack Developer | Team Collaboration
 * **The Goal:**  To provide an interactive educational platform designed to improve financial literacy for a Malaysian audience through structured learning and gamification.
-* **Key Feature:** A comprehensive quiz modules with XP tracking, user profiles with bookmarking capabilities, and a Gemini-powered AI assistant that answers questions and explains financial concepts.
+* **Key Feature:** A comprehensive quiz modules with XP tracking, user profiles with bookmarking capabilities, and an AI assistant that answers questions and explains financial concepts.
 
 ### 🎟️ Survey & Reward Management System (Live)
 **Role:** Full-Stack Developer | Independent
