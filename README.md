@@ -28,15 +28,18 @@
 
 ### Languages & Frameworks
 
-* C | Java | Dart | PHP | JS | SQL | HTML | CSS
+* Web & Backend: PHP (Laravel), JS, HTML, CSS, SQL
+* Mobile & Systems: Dart (Flutter), Java, C, Kotlin (Learning)
 
-### Development
+### Design & Multimedia
 
-* Laravel | RESTful APIs | Flutter | Web Development
+* Graphics: Adobe Photoshop, Illustrator, Animate
+* Video Production: DaVinci Resolve
 
-### Tools
+### Management & Governance
 
-* Android Studio | Git | Gradle | XAMPP
+* Project Management: Microsoft Project, Agile Methodologies
+* Security & Compliance: Risk Management (ISO 27001)
 
 ## 🐍 Contribution Activity
 
