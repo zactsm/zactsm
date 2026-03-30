@@ -8,7 +8,7 @@
 
 * 💼 Currently working as a **Software Engineering Intern**
 * 🌐 Building and learning **modern web technologies**
-* 📱 Exploring the **Kotlin & Android ecosystem**
+* 📱 Exploring the **Kotlin & Android ecosystem (SwiftUI 🔜)**
 * 🧠 Interested in **developer tools and software architecture**
 * 🌱 Always learning and experimenting with new technologies
 
