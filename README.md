@@ -26,7 +26,7 @@
 
 ## Tech Stack
 
-### Languages
+### Languages & Frameworks
 
 * C | Java | Dart | PHP | JS | SQL | HTML | CSS
 
