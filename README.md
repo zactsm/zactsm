@@ -117,4 +117,4 @@
 
 **GitHub:** https://github.com/zactsm
 
-**LinkedIn:** https://www.linkedin.com/muazzam-hazmi
+**LinkedIn:** https://www.linkedin.com/in/muazzam-hazmi
