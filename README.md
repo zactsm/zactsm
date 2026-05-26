@@ -57,7 +57,7 @@
 
 ---
 
-#### 📱 AR Real Estate Mobile Application (Final Year Project)
+#### 📱 AR Real Estate Mobile Application
 
 > Next-generation property exploration platform leveraging cross-platform mobile development and cloud-hosted database systems.
 
