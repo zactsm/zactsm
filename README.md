@@ -115,6 +115,6 @@
 
 ### 📫 Connect
 
-**GitHub:** https://github.com/zactsm
+[![GitHub](https://img.shields.io/badge/GitHub-zactsm-181717?style=for-the-badge&logo=github)](https://github.com/zactsm)
 
-**LinkedIn:** https://www.linkedin.com/in/muazzam-hazmi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muazzam%20Hazmi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muazzam-hazmi)
