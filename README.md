@@ -86,25 +86,6 @@
 
 ---
 
-### 🛠 Tech Stack
-
-#### 🌐 Languages & Frameworks
-
-* Web & Backend: PHP (Laravel), JavaScript, HTML, CSS, SQL
-* Mobile & Systems: Dart (Flutter), Java, C, Kotlin (Learning)
-
-#### 🎨 Design & Multimedia
-
-* Graphics: Adobe Photoshop, Illustrator
-* Video Production: DaVinci Resolve
-
-#### 📋 Management & Governance
-
-* Project Management: Microsoft Project, Agile Methodologies
-* Security & Compliance: Risk Management (ISO 27001)
-
----
-
 ### 🐍 Contribution Activity
 
 <p align="center">
