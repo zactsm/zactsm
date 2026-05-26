@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muazzam 👋</h1>
+<h1 align="center">Hello, I'm Muazzam 👋</h1>
 
 <p align="center">
   <strong>Software Engineering Intern | Full-Stack Developer | Mobile & Web Development</strong>
