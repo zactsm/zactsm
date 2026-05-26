@@ -115,6 +115,6 @@
 
 ### 📫 Connect
 
-**GitHub:** https://github.com/YOUR_USERNAME
+**GitHub:** https://github.com/zactsm
 
-**LinkedIn:** Add your LinkedIn profile here
+**LinkedIn:** https://www.linkedin.com/muazzam-hazmi
