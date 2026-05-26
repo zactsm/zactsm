@@ -70,6 +70,22 @@
 
 ---
 
+#### 🏥 Clinic Management System (ClinicMS)
+
+> Full-stack clinic administration platform built with Laravel for managing patients, appointments, medical records, inventory, and payments.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+* Developed a clinic management platform using Laravel 11 and PHP 8.2.
+* Implemented patient registration, appointment scheduling, staff management, and medical record modules.
+* Built inventory and payment management workflows including PayPal Sandbox integration.
+* Utilized Livewire and Tailwind CSS for responsive, dynamic administrative interfaces.
+* Structured the application following Laravel MVC architecture with scalable routing and modular controllers.
+
+🔗 Repository: https://github.com/zactsm/clinicms
+
+---
+
 ### 🛠 Tech Stack
 
 #### 🌐 Languages & Frameworks
