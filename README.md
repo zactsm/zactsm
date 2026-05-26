@@ -26,7 +26,6 @@
 * 🌐 Building and learning **modern web technologies**
 * 📱 Exploring the **Kotlin & Android ecosystem (SwiftUI 🔜)**
 * 💬 Actively seeking **entry-level opportunities for October 2026 intake**
-* 🚀 Passionate about full-stack systems, automation workflows, and scalable application development
 
 ---
 
