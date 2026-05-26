@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Muazzam 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Intern | Full-Stack Developer | Mobile & Web Development</strong>
+  <strong>Software Engineer | Full-Stack Developer | Mobile & Web Development</strong>
 </p>
 
 <p align="center">
