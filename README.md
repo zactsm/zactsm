@@ -57,6 +57,19 @@
 
 ---
 
+#### 📱 AR Real Estate Mobile Application (Final Year Project)
+
+> Next-generation property exploration platform leveraging cross-platform mobile development and cloud-hosted database systems.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+* Developed a cross-platform mobile application utilizing Flutter and Dart for immersive property browsing.
+* Architected and managed a cloud-hosted relational database infrastructure using **Aiven MySQL**.
+* Designed and deployed scalable backend services to **Google Cloud Platform (GCP) App Engine**.
+* Implemented robust data models and optimized query schemas to ensure seamless, real-time property data retrieval.
+
+---
+
 ### 🛠 Tech Stack
 
 #### 🌐 Languages & Frameworks
