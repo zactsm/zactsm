@@ -41,7 +41,7 @@
 * Built bookmarking and profile tracking systems for users.
 * Integrated AI assistant for answering finance-related questions and explanations.
 
-Preview [here](https://lightslategrey-porcupine-364600.hostingersite.com)
+🔗 Preview [here](https://lightslategrey-porcupine-364600.hostingersite.com)
 
 ---
 
