@@ -71,6 +71,8 @@
 * Designed and deployed scalable backend services to **Google Cloud Platform (GCP) App Engine**.
 * Implemented robust data models and optimized query schemas to ensure seamless, real-time property data retrieval.
 
+🔗 Repository: https://github.com/zactsm/vizare-android-app
+
 ---
 
 #### 🏥 Clinic Management System (ClinicMS)
