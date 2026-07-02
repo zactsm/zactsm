@@ -42,6 +42,7 @@
 * Integrated AI assistant for answering finance-related questions and explanations.
 
 🔗 Preview [here](https://lightslategrey-porcupine-364600.hostingersite.com)
+🔗 Repository: https://github.com/zactsm/ff-portal
 
 ---
 
