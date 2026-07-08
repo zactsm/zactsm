@@ -10,7 +10,7 @@
 
 
 <p align="center">
- [Portfolio Website](https://zactsm-dev.vercel.app/)
+ [Portfolio Website](https://zactsm-dev.vercel.app)
 </p>
 
 <p align="center">
