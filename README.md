@@ -78,7 +78,7 @@
 
 🔗 Preview [here](https://vizare-app.vercel.app/)
 
-⚠️ Status: Recently deployed and unstable
+⚠️ Status: Recently migrated to Vercel, deployed but unstable, WIP
 
 🔗 Repository: https://github.com/zactsm/vizare-android-app
 
