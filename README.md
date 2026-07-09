@@ -76,6 +76,10 @@
 * Designed and deployed scalable backend services to **Google Cloud Platform (GCP) App Engine**.
 * Implemented robust data models and optimized query schemas to ensure seamless, real-time property data retrieval.
 
+🔗 Preview [here](https://vizare-app.vercel.app/)
+
+⚠️ Status: Recently deployed and unstable
+
 🔗 Repository: https://github.com/zactsm/vizare-android-app
 
 ---
