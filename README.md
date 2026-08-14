@@ -33,7 +33,7 @@
 
 ### 🚀 Featured Projects
 
-#### 💰 Portal FF — Financial Literacy Platform
+#### 💰 FFPortal — Financial Literacy Platform
 
 > Comprehensive Malay-language financial education portal combining structured modules, gamification, and Gemini AI assistance.
 
@@ -95,7 +95,7 @@
 
 ---
 
-#### 🛒 FFGroceryTrack & Android App — Inventory & Reimbursements
+#### 🛒 FFGrocery & Android App — Inventory & Reimbursements
 
 > Dual-platform inventory tracking and expense reimbursement platform (Web & Cross-Platform Mobile).
 
@@ -106,7 +106,7 @@
 * Includes reimbursement claim (`Tuntutan`) submission workflows with receipt attachment verification.
 * Implemented Sanctum API authentication, role-based permissions (Superadmin/Stocker), and activity audit logging.
 
-🔗 Repositories: [Web Portal](https://github.com/zactsm/ff-grocery-track) | [Android App](https://github.com/zactsm/ff-grocery-track-android)
+🔗 Repositories: [Web Portal](https://github.com/zactsm/ff-grocery) | [Android App](https://github.com/zactsm/ff-grocery-track-android)
 
 ---
 
