@@ -57,7 +57,7 @@
 * Integrated secure medical document vault backed by Supabase S3 storage for prescriptions and lab results.
 * Facilitates caregiver delegation via unique sync codes (`MS-...`) and Emergency SOS public ICE profiles (`ICE-...`).
 
-🔗 Repository: https://github.com/zactsm/medisync
+🔗 [Repository](https://github.com/zactsm/medisync)
 
 ---
 
@@ -72,9 +72,9 @@
 * Integrated Google Maps API for interactive location search and radius-based property discovery.
 * Implemented real-time Firestore inquiry messaging, EmailJS automated alerts, and serverless Vercel backend routes.
 
-🔗 Preview: https://vizare-app.vercel.app
+🔗 [Preview](https://vizare-app.vercel.app)
 
-🔗 Repository: https://github.com/zactsm/vizare-android-app
+🔗 [Repository](https://github.com/zactsm/vizare-android-app)
 
 ---
 
@@ -104,7 +104,7 @@
 * Includes reimbursement claim (`Tuntutan`) submission workflows with receipt attachment verification.
 * Implemented Sanctum API authentication, role-based permissions (Superadmin/Stocker), and activity audit logging.
 
-🔗 Repositories: [Web Portal](https://github.com/zactsm/ff-grocery) | [Android App](https://github.com/zactsm/ff-grocery-track-android)
+🔗 [Repository: Web](https://github.com/zactsm/ff-grocery) | [Repository: Android App](https://github.com/zactsm/ff-grocery-track-android)
 
 ---
 
@@ -119,7 +119,7 @@
 * Handles real-time completion tracking with UTC storage and Asia/Kuala_Lumpur UI timezone rendering.
 * Hardened master-admin authentication and Hostinger deployment configuration.
 
-🔗 Repository: https://github.com/zactsm/ff-spotless
+🔗 [Repository](https://github.com/zactsm/ff-spotless)
 
 ---
 
