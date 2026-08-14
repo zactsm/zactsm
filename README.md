@@ -44,8 +44,6 @@
 * Implemented YouTube channel content feed integration, Google OAuth sign-in, and reCAPTCHA protection.
 * Built comprehensive administration portal for content management, user reporting, and moderation.
 
-🔗 Repository: https://github.com/zactsm/ff-portal
-
 ---
 
 #### 🩺 MediSync — Healthcare & Caregiver Platform
@@ -74,7 +72,7 @@
 * Integrated Google Maps API for interactive location search and radius-based property discovery.
 * Implemented real-time Firestore inquiry messaging, EmailJS automated alerts, and serverless Vercel backend routes.
 
-🔗 Preview [here](https://vizare-app.vercel.app/)
+🔗 Preview: https://vizare-app.vercel.app
 
 🔗 Repository: https://github.com/zactsm/vizare-android-app
 
@@ -91,7 +89,7 @@
 * Integrated real-time Telegram Bot notifications with support for dedicated Telegram forum topics/threads.
 * Secured API endpoints with JWT bearer authentication and prepared SQL statements.
 
-🔗 Repository: TBA
+🔗 [Repository](https://github.com/zactsm/ffticket)
 
 ---
 
