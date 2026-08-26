@@ -27,7 +27,6 @@
 * 💼 Software Engineer specializing in full-stack web development, cybersecurity, and DevOps practices.
 * 🌐 Experienced in building secure web applications (Laravel, React, Inertia.js, PHP, Vite).
 * 📱 Mobile developer skilled in cross-platform development (Flutter, Dart, AR integration).
-* 🎓 Information Assurance and Security IT graduate (CGPA 3.57) actively seeking **entry-level opportunities for September/October 2026 intake**.
 
 ---
 
