@@ -71,7 +71,7 @@
 * Integrated Google Maps API for interactive location search and radius-based property discovery.
 * Implemented real-time Firestore inquiry messaging, EmailJS automated alerts, and serverless Vercel backend routes.
 
-🔗 [Preview](https://vizare-app.vercel.app)
+🔗 [Preview](https://vizare-web.vercel.app)
 
 🔗 [Repository](https://github.com/zactsm/vizare-android-app)
 
